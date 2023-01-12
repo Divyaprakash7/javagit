@@ -8,6 +8,7 @@ System.out.println("diff "+(a-b));
 System.out.println("mul "+(a*b));
 System.out.println("div "+(a/b));
 System.out.println("Hello World!");
+System.out.println("build schedule checked!");
 }
 }
 
